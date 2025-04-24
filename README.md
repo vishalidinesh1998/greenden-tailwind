@@ -18,6 +18,7 @@ Check out the live site here: [Greenden Live][(https://your-live-site-link.com)]
 
 - HTML5
 - Tailwind CSS
+- JavaScript 
 
 ## 📂 Folder Structure
 
